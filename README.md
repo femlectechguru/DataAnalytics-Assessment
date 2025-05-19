@@ -280,7 +280,8 @@ WITH customer_clv_data AS (
 
 `(SUM(s.confirmed_amount) * 0.001) / 100 AS avg_profit_per_transaction:` Computes the average profit per transaction at 0.1% of transaction value.
 
-Step 2: Calculate Estimated CLV
+- **Step 2: Calculate Estimated CLV**
+
 ```
 SELECT 
     customer_id,
@@ -309,7 +310,9 @@ Avg Profit per Transaction`
 
 
 **Author**
+
 Oluwafemi Erinle
+
 Data Analyst
 
 
