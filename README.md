@@ -1,4 +1,4 @@
-### DATAANALYTICS-ASSESSMENT
+### DATA ANALYTICS - ASSESSMENT
  
 ## OVERVIEW
 This repository contains SQL queries designed for a data analytics assessment, focusing on customer insights and transaction analysis.
